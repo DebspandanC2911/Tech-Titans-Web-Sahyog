@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Dyslexia Aid",
+    "version": "1.0",
+    "description": "Breaks paragraphs into smaller sections, makes the first two letters bold, and adds text-to-speech functionality.",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "48": "icon.png"
+      }
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  
