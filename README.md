@@ -1,6 +1,6 @@
-# Tech Titans Web Sahyog
+# Tech Titans Web Sahyog and Dyslexia Aid
 
-Tech Titans Web Sahyog is a browser extension designed to enhance web accessibility for users with dyslexia and motor impairments. Our mission is to create an inclusive digital environment where everyone can navigate and interact with web content effectively and independently.
+Tech Titans Web Sahyog and Dyslexia Aid are  browser extensions designed to enhance web accessibility for users with dyslexia and motor impairments. Our mission is to create an inclusive digital environment where everyone can navigate and interact with web content effectively and independently.
 
 # Team Details
 - **Team Name:** TECHTITANS
@@ -14,8 +14,7 @@ Tech Titans Web Sahyog is a browser extension designed to enhance web accessibil
 
 ## Tech Stack Used
 - FRONTEND - `HTML` `CSS` `JAVASCRIPT`
-- BACKEND  - `NODE.JS`  `EXPRESS.JS` 
-- DATABASE - `MONGODB`
+
 
 # Features
 
@@ -52,6 +51,7 @@ Developed a user-friendly settings page where users can customize the extension'
 # Future Prospects
 
 We aim to continuously improve the extension by incorporating user feedback, adding new features, and enhancing existing functionalities to make web content more accessible to everyone.
+We aim to integrate both the extensions together.
 
 # Installation
 
@@ -72,6 +72,12 @@ To set up the project locally, follow these steps:
 3. Start the development server.
 
 4. Access the website locally by navigating to `http://localhost:3000` in your web browser.
+5. Load the Extension in Chrome:
+
+Open Chrome and navigate to chrome://extensions/
+Enable Developer Mode by clicking the toggle switch next to Developer mode.
+Click the "Load unpacked" button and select the extension directory within your cloned repository.
+ 
 
 ## Contributions
 
